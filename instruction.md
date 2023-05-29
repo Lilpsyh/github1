@@ -18,3 +18,5 @@
 
 Справочник по Markdown от Microsoft:
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
+
+![Синтаксис языка Markdown](lol%20(2).jpg)
