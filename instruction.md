@@ -13,4 +13,8 @@
  > *git checkout* – переход от одного коммита к другому
 
  > *git diff* – увидеть разницу между текущим файлом и закоммиченным файлом
- 
+
+Синтаксис языка Markdown 
+
+Справочник по Markdown от Microsoft:
+https://docs.microsoft.com/ru-ru/contribute/markdown-reference
