@@ -22,4 +22,4 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 ![Синтаксис языка Markdown](lol%20(2).jpg)
 
 ## Основные команды второг семинара 
-
+ >*git checkout  -b <название ветки>* - создание ветки и переход к ней
