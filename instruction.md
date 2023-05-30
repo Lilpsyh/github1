@@ -23,3 +23,5 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 ## Основные команды второг семинара 
  >*git checkout  -b <название ветки>* - создание ветки и переход к ней
+ 
+ >*git checkout* <название ветки> – переход к другой ветке
