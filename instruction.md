@@ -31,3 +31,5 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 >*git branch* – посмотреть список веток в репозитории
 
   
+>*git log* --oneline – коротенький журнал
+
