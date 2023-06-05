@@ -34,3 +34,5 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 >*git log* --oneline – коротенький журнал
 
 >*git commit -am “message”* – добавление файлов в отслеживание и       создание коммита.
+
+>*git log --graph* - вывод на экран истории всех коммитов с их хеш-кодами в древовидной форме
