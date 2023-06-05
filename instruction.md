@@ -33,3 +33,4 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
   
 >*git log* --oneline – коротенький журнал
 
+>*git commit -am “message”* – добавление файлов в отслеживание и       создание коммита.
