@@ -36,3 +36,5 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 >*git commit -am “message”* – добавление файлов в отслеживание и       создание коммита.
 
 >*git log --graph* - вывод на экран истории всех коммитов с их хеш-кодами в древовидной форме
+
+>*git merge --abort* - отменить слияние, которое прошло с конфликтом
