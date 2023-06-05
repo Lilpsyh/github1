@@ -29,3 +29,5 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 >*git branch* -d <название ветки> – удалить ветку
 
 >*git branch* – посмотреть список веток в репозитории
+
+ 
